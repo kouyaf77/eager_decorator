@@ -1,4 +1,4 @@
-# EagerDecorator
+# EagerDecorator [![Build Status](https://travis-ci.org/kouyaf77/eager_decorator.svg)](https://travis-ci.org/kouyaf77/eager_decorator)
 
 TODO: Write a gem description
 
@@ -10,17 +10,14 @@ Add this line to your application's Gemfile:
 gem 'eager_decorator'
 ```
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install eager_decorator
-
 ## Usage
 
 TODO: Write usage instructions here
+
+## Supported versions
+
+  * Ruby 1.9.3, 2.0.0, 2.1.0
+  * Ruby 3.2.0, 4.0.0, 4.1.0, 4.2.0
 
 ## Contributing
 
