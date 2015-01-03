@@ -1,4 +1,4 @@
-# EagerDecorator [![Build Status](https://travis-ci.org/kouyaf77/eager_decorator.svg)](https://travis-ci.org/kouyaf77/eager_decorator)
+# EagerDecorator [![Build Status](https://travis-ci.org/kouyaf77/eager_decorator.svg)](https://travis-ci.org/kouyaf77/eager_decorator) [![Gem Version](https://badge.fury.io/rb/eager_decorator.svg)](http://badge.fury.io/rb/eager_decorator)
 
 A simple decorator for Rails 3 and Rails 4.
 Always, the decorator is mixed automatically in model.
@@ -20,7 +20,7 @@ $ rails g decorator user
 ## Supported versions
 
   * Ruby 1.9.3, 2.0.0, 2.1.0
-  * Ruby 3.2.0, 4.0.0, 4.1.0, 4.2.0
+  * Rails 3.2.0, 4.0.0, 4.1.0, 4.2.0
 
 ## Copyright
 
