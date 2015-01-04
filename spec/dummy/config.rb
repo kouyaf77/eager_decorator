@@ -2,9 +2,6 @@ require "active_record"
 require "action_controller/railtie"
 require "action_view/railtie"
 
-# model
-class User < ActiveRecord::Base; end
-
 # migrations
 class CreateAllTables < ActiveRecord::Migration
   def self.up

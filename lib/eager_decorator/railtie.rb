@@ -1,9 +1,7 @@
-require "rails"
-
 module EagerDecorator
   class Railtie < ::Rails::Railtie
     initializer "eager_decorator" do
-      EagerDecorator::Decorator.instance
+      EagerDecorator::Hooks.init
     end
   end
 end

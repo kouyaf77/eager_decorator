@@ -22,6 +22,10 @@ $ rails g decorator user
   * Ruby 1.9.3, 2.0.0, 2.1.0
   * Rails 3.2.0, 4.0.0, 4.1.0, 4.2.0
 
+## Supported ORMs
+
+  * ActiveRecord
+
 ## Copyright
 
 Copyright (c) 2015 Koya Fukuda. See MIT-LICENSE for further details.
