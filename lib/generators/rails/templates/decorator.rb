@@ -1,2 +1,2 @@
- module <%= class_name %>Decorator
- end
+module <%= class_name %>Decorator
+end
